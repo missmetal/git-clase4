@@ -9,3 +9,8 @@ h1 {
 img {
     width: 350px;
 }
+
+#muy-importante {
+    color: red;
+    font-weight: 900;
+}
